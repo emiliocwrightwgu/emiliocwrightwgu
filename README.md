@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-## 👋 Hello! I'm Emilio Wright
+I'm Emilio Wright
 
 Welcome to my GitHub profile! I'm a developer with a focus on educational technology and project management. I create streamlined solutions for university courses and project management teams using Python, C++, and tools like Smartsheet and Visual Studio Code.
 
