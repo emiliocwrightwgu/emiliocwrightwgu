@@ -19,9 +19,9 @@ I'm Emilio Wright
 
 Welcome to my GitHub profile! I'm a developer with a focus on educational technology and project management. I create streamlined solutions for university courses and project management teams using Python, C++, and tools like Smartsheet and Visual Studio Code.
 
-### 🌱 Current Interests and Projects
+### 🔭 Current Interests and Projects
 - **Smartsheet API Library**: Developing a versatile library to manage and automate workflows.
-- **Project Automation**: Building scripts for time tracking, project dashboards, and integrations with productivity tools.
+- **Project Automation**: Building scripts for simplifying Smartsheet tasks and other automation projects to improve workflow efficiency.
 - **Team Culture Development**: Passionate about fostering a collaborative and innovative environment within my team.
 
 ### 🔧 Technologies I Work With
